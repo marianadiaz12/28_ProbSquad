@@ -1,0 +1,30 @@
+*{
+	background-color: #D68910;
+}
+.nombre{
+	font-weight:bolder;
+	font-family: 'Fascinate Inline', cursive;
+	color: #17202A;
+}
+
+
+/*Efecto en imagenes*/
+.contenedor {
+  position: relative;
+  height: 290px;
+  width: 290px;
+}
+
+.contenedor img {
+  position: absolute;
+  left: 0;
+  transition: opacity 1.5s ease-in-out;
+}
+
+.contenedor img.top:hover {
+  opacity: 0;
+}
+
+.foot{
+	background-color: #00042B;
+}
