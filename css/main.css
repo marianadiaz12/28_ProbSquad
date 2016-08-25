@@ -2,22 +2,19 @@
 	background-color: #D68910;
 	font-family: 'Pacifico', cursive;
 }
-h3{
-	font-weight: bolder;
-}
 .nombre{
-	font-weight:bolder;
-	font-family: 'Fascinate Inline', cursive;
 	color: #17202A;
 }
 .mg-t{
 	margin-top: 10%;
 }
-.foot{
-	background-color: blcak;
+.fot{
+	padding: 5%;
+	background-color:#00042B ;
 }
-.img{
-	height: 50px;
+.blan{
+	color: white;
+	font-size: 1.2em;
 }
 /*Efectos*/
 .move{
